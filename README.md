@@ -22,7 +22,6 @@ Plataforma de delivery de comida, com ênfase nos colaboradores, melhorando a si
 ### **Mobile**
 *   **Tecnologia:** ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ou ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white). 
 *   **Notificações:** ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34). 
-*   **Deep Linking:** Configuração de links inteligentes para abrir o aplicativo diretamente na página do jogo desejado.
 
 ### **Banco de Dados**
 *   **Relacional (Principal):** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white).
