@@ -25,7 +25,7 @@ Plataforma de delivery de comida, com ênfase nos colaboradores, melhorando a si
 *   **Deep Linking:** Configuração de links inteligentes para abrir o aplicativo diretamente na página do jogo desejado.
 
 ### **Banco de Dados**
-*   **Relacional (Principal):** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white).
+*   **Relacional (Principal):** ![MongoDb](https://img.shields.io/badge/MongoDb-%23316192.svg?style=plastic&logo=MongoDb&logoColor=white).
 *   **Não-Relacional (Cache):** ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white).
 *   **Busca:** ![MeilSearch](https://img.shields.io/badge/-MeiliSearch-005571?style=plastic&logo=meilisearch) ou ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white).
 
