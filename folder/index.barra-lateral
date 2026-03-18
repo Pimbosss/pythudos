@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/android-chrome-512x512.png" type="image/x-icon">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
@@ -45,6 +46,9 @@
 
         </div>
     </nav>
+    <h1 style="text-align: center;">Seja bem vindo ao Flash Foods</h1>
+    <p style=" text-align: center;">Veja a variedades de opções e <strong>mate sua fome</strong></p>
+ 
     
 </body>
 </html>
