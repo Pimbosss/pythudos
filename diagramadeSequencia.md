@@ -12,14 +12,14 @@ sequenceDiagram
     
     C->>A: Realiza Pedido e Efetua Pagamento
     A->>P: Processa Pagamento 
-    P-->>A: Confirmação de Sucesso
-    A->>R: Notifica Novo Pedido
-    R-->>A: Confirma Preparação
-    A->>E: Oferta Entrega 
-    E-->>A: Aceita Entrega
-    R->>E: Entrega o Pedido 
-    E->>C: Realiza a Entrega no Destino
-    C-->>E: Confirma Recebimento 
+    P-->>A: Confirmação do Pagamento
+    A->>R: Notifica um Novo Pedido
+    R-->>A: Confirma a Preparação do Pedido
+    A->E: Informa pedido para Entrega 
+    E-->>A: Aceita Entrega do Pedido
+    R->>E: Entregador recebe o Pedido 
+    E->>C: Realiza a Entrega do pedido ao Cliente
+    C-->>A: Confirma Recebimento do Pedido
     E->>A: Finaliza Entrega no App
 ```
  
