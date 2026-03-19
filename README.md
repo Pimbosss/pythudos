@@ -1,4 +1,4 @@
-# 🖥️ Projeto plataforma de delibery
+# 🖥️ Projeto plataforma de delivery
 
 ### Resumo
 
