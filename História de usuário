@@ -35,8 +35,18 @@ novas historias
 1.4 Categoria bebida: Como cliente, seria interessante possuir uma categoria para bebidas, para facilitar a procura.
 1.5 Mensagem: Como um cliente alérgico a lactose, gostaria de poder comunicar isso ao restaurante, com finalidade de poder consumir o alimento sem medo.
 1.6 Restaurantes Verificados: Eu como cliente gostaria de saber quais restaurantes sao ofialmente verificados, para ter mais confiábilidade no produto.
-1.7 
 
-2 Foco No Cliente
+
+1.7 Histórico: Como cliente, quero poder ver meu histórico de pedidos, para conseguir pedir novamente pedidos feitos no passado.
+1.8 Informação Nutricional: Como cliente, quero poder ver as informações nutricionais do prato, para controle de ingestão diária de calorias e nutrientes.
+
+
+2 Foco No Entregador 
 
 2.1 Código: Eu como entregador, gostaria de um código emitido pelo cliente, para confirmar ue a entrega foi feita a pessoa certa.
+2.2 Ganho por entrega: Como entregador, quero saber quanto irei ganhar por entrega, para controlar melhor os gastos de combustível e saber se valera a pena a entrega 
+
+
+3. Foco no Restaurante
+
+3.1 Total de vendas por produto: Como dono de restaurante, quero um relatório de quantidade de pratos vendidos de cada item, para ter um controle do cardápio.
