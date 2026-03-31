@@ -8,6 +8,7 @@
 2. Funcionalidades para o Entregador 
 
 •	Geolocalização e Roteirização: Integração com mapas (Google Maps/Waze) para otimização de rotas.
+• Clareza nas informações de entrega: Informar a distancia, até o local de recebimento do pedido e até o cliente.
 •	Gestão de Disponibilidade: Botão "Ficar Online/Offline" para controle de jornada.
 •	Histórico de Ganhos: Relatórios diários, semanais e mensais para organização financeira do colaborador.
 
