@@ -1,6 +1,6 @@
 ### **Diagrama de sequencia**
 
-
+-Diagrama de sequência que demonstra de uma forma simples o funcionamento da plataforma.
 ```mermaid
 sequenceDiagram
     participant C as Cliente
@@ -27,9 +27,11 @@ sequenceDiagram
     C-->>A: Confirma Recebimento do Pedido
     E->>A: Finaliza Entrega no App
 ```
+
 ##
 ### 1. Dispatch inteligente (sem espera no restaurante)
 
+-Diagrama de sequência que demonstra de forma especifíca a parte do entregador na espera do pedido para continuar com a entrega.
 ```mermaid
 
     sequenceDiagram
@@ -55,8 +57,8 @@ sequenceDiagram
 ```
 
 ##
-### 3. Cálculo correto de distância e ganho
-
+### 2. Cálculo correto de distância e ganho
+Diagrama de sequência que demonstra para o entregador a distância total e o ganho total com a entrega.
 ```mermaid
 
     sequenceDiagram
@@ -82,7 +84,7 @@ sequenceDiagram
 
 ##
 ### 3. Notificações automáticas ao cliente
-
+-Diagrama de sequência que demonstra o funcionamento das notificações de preparo, o funcionamento de rastreio da entrega e tempo para entrega para o cliente.
 ```mermaid
 
     sequenceDiagram
