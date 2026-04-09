@@ -18,7 +18,7 @@ sequenceDiagram
     A->>R: Notifica um Novo Pedido
     R-->>A: Confirma a Preparação do Pedido
     R-->>A: Tempo de preparo
-    A->>E: Informa o tempo de preparo do pedido para o entregador
+    A->>E: Informa o tempo de preparo do pedido para o entregador e distância total do trajeto
     E-->>A: Aceita Entrega do Pedido
     R->>E: Entregador recebe o Pedido
     E-->>A: App recebe status do Pedido
