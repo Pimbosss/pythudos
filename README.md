@@ -32,3 +32,7 @@ Plataforma de delivery de comida, com ênfase nos colaboradores, melhorando a si
 ### **WIREFRAME**
 [Wireframe](https://www.figma.com/make/4ZyPSo3L0dtPdw8A1qRuRc/Flash-Foods?p=f&t=xYYmx1StTpjVlvsl-0&fullscreen=1)
 #
+
+
+###NOMES:
+Heitor Mariottini, Erick Fialho, Gabriel Brandão, Felipe Gabriel, Renan Câmara
