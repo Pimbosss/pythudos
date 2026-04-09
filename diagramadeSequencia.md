@@ -58,7 +58,7 @@ sequenceDiagram
 
 ##
 ### 2. Cálculo correto de distância e ganho
-Diagrama de sequência que demonstra para o entregador a distância total e o ganho total com a entrega.
+-Diagrama de sequência que demonstra para o entregador a distância total e o ganho total com a entrega.
 ```mermaid
 
     sequenceDiagram
