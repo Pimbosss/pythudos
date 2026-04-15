@@ -36,7 +36,7 @@ apenas mediar vendas, mas otimizar o tempo e o lucro de quem faz o transporte.
 [Entrevista](https://github.com/Pimbosss/Projeto-Flash-Foods/blob/main/Projeto/Entrevista_Problemas.pdf)  
 [Wireframe](https://www.figma.com/make/4ZyPSo3L0dtPdw8A1qRuRc/Flash-Foods?p=f&t=xYYmx1StTpjVlvsl-0&fullscreen=1)  
 [Wireframe Simples](https://github.com/Pimbosss/Projeto-Flash-Foods/tree/main/Projeto/wireframe)  
-[Diagrama de Caso de Uso](https://github.com/Pimbosss/Projeto-Flash-Foods/tree/main/Projeto/DiagramaCasoDeUso)    
+[Diagrama de Caso de Uso](https://github.com/Pimbosss/Projeto-Flash-Foods/blob/main/Projeto/DiagramaCasoDeUso/Diagrama%201.md)    
 [Diagrama de Sequência](https://github.com/Pimbosss/Projeto-Flash-Foods/blob/main/Projeto/DiagramaDeSequencia/diagramadeSequencia.md)   
 [Diagrama de Estado](https://github.com/Pimbosss/Projeto-Flash-Foods/blob/main/Projeto/DiagramaDeEstado/diagramaDeEstado.md)  
 [História de Usuário](https://github.com/Pimbosss/Projeto-Flash-Foods/blob/main/Projeto/Hist%C3%B3riaDeUsu%C3%A1rio/Hist%C3%B3ria%20de%20usu%C3%A1rio.md)
